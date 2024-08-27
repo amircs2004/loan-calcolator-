@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: blue;
+}
+.div{
+  position: relative;
+  background-color: azure;
+  padding: 55px;
+  border-radius: 15px;
+}
+.div h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.div input {
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: 900;
+}
+.div p {
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
